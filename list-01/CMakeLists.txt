@@ -1,0 +1,6 @@
+add_executable(list01_task01 task-01.cpp)
+add_executable(list01_task02 task-02.cpp)
+add_executable(list01_task03 task-03.cpp)
+add_executable(list01_task04 task-04.cpp)
+add_executable(list01_task05 task-05.cpp)
+add_executable(list01_task06 task-06.cpp)
