@@ -1,0 +1,6 @@
+add_executable(list03_task31 task-31.cpp)
+add_executable(list03_task32 task-32.cpp)
+add_executable(list03_task33 task-33.cpp)
+add_executable(list03_task34 task-34.cpp)
+add_executable(list03_task35 task-35.cpp)
+add_executable(list03_task36 task-36.cpp)
