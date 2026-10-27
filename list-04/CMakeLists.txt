@@ -1,0 +1,6 @@
+add_executable(list04_task41 task-41.cpp)
+add_executable(list04_task42 task-42.cpp)
+add_executable(list04_task43 task-43.cpp)
+add_executable(list04_task44 task-44.cpp)
+add_executable(list04_task45 task-45.cpp)
+add_executable(list04_task46 task-46.cpp)
